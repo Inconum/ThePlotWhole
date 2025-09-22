@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Start a Jekyll container with gem caching
+docker run --rm -it \
+  -v "$PWD":/srv/jekyll \
+  -v ~/.ThePlotWhole_bundle:/usr/local/bundle \
+  -p 4000:4000 jekyll/jekyll:4 bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --port 4000"
