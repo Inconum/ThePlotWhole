@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Rebuild of Evangelion Movies are weird"
-date:   2025-11-15 12:00:00 +0100
+date:   2025-11-17 12:00:00 +0100
 categories: rant
 pinned: false
 ---
