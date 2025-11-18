@@ -32,5 +32,3 @@ Now that the praise is out of the way we can really dig our fingers into the mea
 the movie ended the same way as the og
 everyone had to have a spelled out "good" ending bcs we cant have ambiguous text, everything needs to be spoon feed (like gend0's backstory)
 mari is just a nothing burguer, she has no personality per se, she has no depth,. she just impacts the plot and does things for no reason and then ends with shinji for no reason, they have no questiry. Just bcs she is based on anno's wife and he wanted shinji to end up witha  girl is not a good enoguh esxcuse for ther to exist. In the end and unlike the og, shinji needed someone to save him, which i think its s worse message than the previuos one, where you could change to accept and change yourself
-
-

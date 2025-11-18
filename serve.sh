@@ -1,5 +1,9 @@
 #!/bin/bash
 
+cd /home/ben/ThePlotWhole
+
+git pull origin main
+
 # Start a Jekyll container with gem caching
 docker run --rm -it \
   -v "$PWD":/srv/jekyll \
@@ -10,3 +14,4 @@ docker run --rm -it \
 #-v ~/.ThePlotWhole_bundle:/usr/local/bundle → caches gems outside the container.
 #-p 4000:4000 → exposes the site on http://localhost:4000.
 #bundle install && bundle exec jekyll serve → installs missing gems (if any) and serves the site.
+
